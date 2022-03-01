@@ -1,8 +1,0 @@
-2022.02.24
-Pierwsza linijka pamiętnika tworzona w notepadzie. Tworzę nowy plik obok pliku stworzonego przez Pawła
-
-Linijka wpisywana przez adama kiedy jest zalogowany na swoim koncie githuba.
-
-Kolejna linijka wpisana przez adama po usunięciu git remote
-
-Wpis po dodaniu git remote
